@@ -97,4 +97,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-Deployment Link-https://sensational-empanada-e87ae2.netlify.app/cart
+Deployment Link-https://sensational-empanada-e87ae2.netlify.app/
